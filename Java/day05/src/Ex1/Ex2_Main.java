@@ -20,6 +20,7 @@ public class Ex2_Main {
 		Ex2_Static ref3 = new Ex2_Static();
 		//각 객체의 메소드 호출
 
+		
 		ref1.startTest(); // num1 - 1
 		ref2.startTest(); // num1 - 2
 		//출력
