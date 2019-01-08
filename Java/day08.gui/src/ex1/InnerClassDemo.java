@@ -31,7 +31,6 @@ public class InnerClassDemo extends JFrame {
     private JButton b1;
     private JButton b2;
     private JButton b3;
-    String red;
     //Alt + insert
     public InnerClassDemo(){
         //선언한 GUI객체를 초기화(생성)
