@@ -11,6 +11,7 @@ package Exam;
  */
 public class IndoCook extends RandomValue implements ServiceCook{
     
+    //인도쿡에서 랜덤벨류를 부모로 잡고 서비스쿡을 인터페이스로 잡는다.
     
     	public String Food() {
             

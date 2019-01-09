@@ -10,6 +10,7 @@ package Exam;
  * @author KOSTA
  */
 public class KoreaCook extends RandomValue implements ServiceCook {
+    //코리아쿡에서 랜덤벨류를 부모로 잡고 서비스쿡을 인터페이스로 잡는다.
 
     private String menu;
     
